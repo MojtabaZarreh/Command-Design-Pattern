@@ -2,6 +2,10 @@
 
 A Python Tkinter application demonstrating the **Command design pattern** with **undo/redo functionality**. This project shows how to structure user actions as objects, maintain execution history, and manipulate a canvas efficiently.
 
+
+https://github.com/user-attachments/assets/6893602e-0ad2-44a3-9237-2aa3834c22c0
+
+
 ## Overview
 
 Users can draw **circles** and **rectangles** on a canvas and undo or redo their actions. The focus of this project is on:
