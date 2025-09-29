@@ -62,3 +62,8 @@ The `Editor` class manages two **stacks**:
 - **Stacks** (`list`) maintain history efficiently.
 - Each command object is self-contained, holding all data needed for execution and reversal.
 - Ensures **loose coupling** between GUI and business logic.
+
+
+
+https://github.com/user-attachments/assets/823637f1-696c-417e-9d20-91cf6085ecf3
+
