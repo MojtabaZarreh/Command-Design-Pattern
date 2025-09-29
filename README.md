@@ -63,7 +63,4 @@ The `Editor` class manages two **stacks**:
 - Each command object is self-contained, holding all data needed for execution and reversal.
 - Ensures **loose coupling** between GUI and business logic.
 
-
-
-https://github.com/user-attachments/assets/823637f1-696c-417e-9d20-91cf6085ecf3
-
+<img width="3622" height="2697" alt="b651c92b-96b4-4a68-ba35-02f32753fbf0_Copy_of_6-4_UndoRedoStacks" src="https://github.com/user-attachments/assets/7f01e0e3-4c40-41a6-b891-f36956311acb" />
